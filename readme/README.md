@@ -21,6 +21,7 @@ In this project, we completed the following tasks:
 <div style="text-align: center;">
   <img src="img_2.png" alt="Grad-CAM results" style="width: 60%;">
 </div>
+
 ## Usage Instructions
 
 To use this project, follow these steps:  
